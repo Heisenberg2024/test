@@ -1,2 +1,3 @@
 Temporary GitPier hosting acceptance repository.
-Version: baseline
+Version: v1.5.1
+Read-only remote Diff fixture.
