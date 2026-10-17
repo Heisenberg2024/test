@@ -1,0 +1,2 @@
+Temporary GitPier hosting acceptance repository.
+Version: baseline
