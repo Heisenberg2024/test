@@ -9,7 +9,7 @@ rename fixture line 8: stable context
 rename fixture line 9: stable context
 rename fixture line 10: stable context
 rename fixture line 11: stable context
-rename fixture line 12: stable context
+rename fixture line 12 updated: stable context
 rename fixture line 13: stable context
 rename fixture line 14: stable context
 rename fixture line 15: stable context

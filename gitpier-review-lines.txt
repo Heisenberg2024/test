@@ -2,10 +2,9 @@ synthetic line 1: stable context
 synthetic line 2: stable context
 synthetic line 3: stable context
 synthetic line 4: stable context
-synthetic line 5: stable context
-synthetic line 6: stable context
+synthetic line 5: updated added anchor
+synthetic line 6: updated range end
 synthetic line 7: stable context
-synthetic line 8: stable context
 synthetic line 9: stable context
 synthetic line 10: stable context
 synthetic line 11: stable context
@@ -33,7 +32,7 @@ synthetic line 32: stable context
 synthetic line 33: stable context
 synthetic line 34: stable context
 synthetic line 35: stable context
-synthetic line 36: stable context
+synthetic second hunk: updated context
 synthetic line 37: stable context
 synthetic line 38: stable context
 synthetic line 39: stable context
@@ -46,3 +45,4 @@ synthetic line 45: stable context
 synthetic line 46: stable context
 synthetic line 47: stable context
 synthetic line 48: stable context
+synthetic stale-head fixture update
