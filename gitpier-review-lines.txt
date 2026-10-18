@@ -45,3 +45,4 @@ synthetic line 45: stable context
 synthetic line 46: stable context
 synthetic line 47: stable context
 synthetic line 48: stable context
+synthetic stale-head fixture update
